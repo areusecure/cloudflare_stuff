@@ -8,8 +8,8 @@ SQL-file, processed from normalised crimeflare database files
 # Table description
 Name       Type
 --------------------
-sni        character varying(15) 
-serial     character varying(60) 
+sni        character varying(15)
+serial     character varying(60)
 not_before date
 not_after  date
 domain     character varying(256) 
