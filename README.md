@@ -9,3 +9,8 @@ SQL-file, processed from normalised crimeflare database files
 $ cat cloudflare_sql.parta* > cloudflare_sql.tar.gz
 
 # tar -xzvf cloudflare_sql.tar.gz
+
+
+
+Credits:
+http://crimeflare.org:82/
